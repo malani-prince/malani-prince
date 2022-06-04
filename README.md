@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **python base machine learning**
 
+- 📊 learning new things
+
 - 📫 How to reach me **malaniprince55@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
