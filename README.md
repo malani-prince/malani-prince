@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/prince_0034" target="blank"><img src="https://img.shields.io/twitter/follow/prince_0034?logo=twitter&style=for-the-badge" alt="prince_0034" /></a> </p>
 
+- 🌱 I’m currently learning **MERN stack and Computer Vision**
+
 - 🔭 I’m currently working on [Read Estate Management](<Under Development>)
 
-- 📫 How to reach me **malaniprince55@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sy0j43h2ASS2ZrwnQC-XoBDTVwvcoDHq/view?usp=drive_link](https://drive.google.com/file/d/1sy0j43h2ASS2ZrwnQC-XoBDTVwvcoDHq/view?usp=drive_link)
+- 📫 How to reach me **: malaniprince55@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
