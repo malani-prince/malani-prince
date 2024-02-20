@@ -5,6 +5,16 @@
 
 <p align="left"> <a href="https://twitter.com/prince_0034" target="blank"><img src="https://img.shields.io/twitter/follow/prince_0034?logo=twitter&style=for-the-badge" alt="prince_0034" /></a> </p>
 
+---
+
+#### Greetings! I am Prince Malani, a proficient Python, MERN Developer and Machine Learning developer hailing from Ahmedabad. My expertise is underscored by an unwavering commitment to scalability and perpetual learning. Currently in the midst of my 8th semester, and pursuing a degree in Information and Technologies.
+
+#### Notably, I achieved a significant milestone by having our paper published at the "IEEE 2024 9th International Conference for Convergence in Technology (I2CT)". This accomplishment stands as a testament to my dedication and contributions to the field.
+
+---
+
+- 📚 Currently pursuing Information Technology - from LDRP-ITR Gandhinagar (Final Year)
+  
 - 🌱 I’m currently learning **MERN stack and Computer Vision**
 
 - 🔭 I’m currently working on [Read Estate Management](<Under Development>)
