@@ -1,5 +1,4 @@
 
-
 <!-- =================== INTRO + BANNER =================== -->
 <a name="top"></a>
 
@@ -237,25 +236,25 @@ What drives me is the engineering craft underneath the product: clean code, pred
 
 <div align="center">
 
-<!-- TODO: fill in your real paper title, venue, year, and links -->
-### 📝 &lt;Paper Title&gt;
-> Published in **&lt;Conference / Journal&gt;**, **&lt;Year&gt;**
+### 📝 Unlocking Enigmatic Pathways: Empowering Student Dropout Analysis with Machine Learning and Energizing Holistic Investigation
+> **IEEE 9th International Conference for Convergence in Technology (I2CT)** — Pune, India, **2024** · pp. 1–7
+> *Authors: D. Patel, K. Savaj, **P. Malani**, J. Patel, H. Trivedi*
 
-<a href="#"><img src="https://img.shields.io/badge/Read%20Paper-1565C0?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/PDF-B31B1B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
-<a href="https://github.com/princemalani"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://ieeexplore.ieee.org/document/10543438/"><img src="https://img.shields.io/badge/IEEE%20Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white"/></a>
+<a href="https://doi.org/10.1109/I2CT61223.2024.10543438"><img src="https://img.shields.io/badge/DOI-10.1109%2FI2CT61223.2024.10543438-B31B1B?style=for-the-badge&logo=doi&logoColor=white"/></a>
+<a href="https://scholar.google.com/citations?user=2C4i3DwAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>
 
 </div>
 
-**Overview** — A short, descriptive summary of the research problem, the approach you took, and the key results or contribution. <!-- TODO: edit -->
+**Overview** — This work tackles **student dropout prediction** as a machine-learning problem, presenting the end-to-end process of building a predictive model that flags at-risk students early enough for institutions to intervene. The proposed architecture applies regression-based techniques — including **Multiple Linear Regression** and **Polynomial Regression** — to model the academic, demographic, and behavioral factors driving attrition, pairing the predictive model with a broader, holistic analysis of *why* students disengage rather than treating dropout as a single isolated outcome.
 
-**What I developed for this work:**
-- 🏗️ End-to-end pipeline / system architecture built for the study <!-- TODO -->
-- 🧪 Models, experiments, and evaluation methodology implemented <!-- TODO -->
-- 📊 Datasets prepared, preprocessing, and analysis tooling <!-- TODO -->
-- ⚙️ Reproducible codebase and tooling supporting the results <!-- TODO -->
+**What was developed for this work:**
+- 📊 Data pipeline for collecting, cleaning, and preprocessing student records into model-ready features.
+- 🧪 Regression-based ML models (Multiple Linear & Polynomial Regression) for dropout-risk prediction.
+- 📈 Evaluation and analysis comparing model performance and surfacing the key dropout indicators.
+- 🧭 A holistic investigation framing the results as actionable signals for early academic intervention.
 
-`Python` `NLP` `LLM` `RAG` `Computer Vision` <!-- TODO: keep the tags that apply -->
+`Python` `Machine Learning` `Regression` `Data Analysis` `Predictive Modeling`
 
 <br/>
 
@@ -264,7 +263,7 @@ What drives me is the engineering craft underneath the product: clean code, pred
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=princemalani&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=2c9fe0&icon_color=2c9fe0" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=princemalani&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&title_color=2c9fe0&icon_color=2c9fe0" alt="GitHub Stats"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=princemalani&hide_border=true&theme=tokyonight&ring=2c9fe0&fire=2c9fe0&currStreakLabel=2c9fe0" alt="GitHub Streak"/>
 
 <br/><br/>
@@ -282,26 +281,15 @@ What drives me is the engineering craft underneath the product: clean code, pred
 
 <br/>
 
-<!-- =================== TROPHIES =================== -->
-<div align="center"><h2>🏆 GitHub Trophies</h2></div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=princemalani&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="trophies"/>
-
-</div>
-
-<br/>
-
 <!-- =================== CONNECT =================== -->
 <a name="connect-with-me"></a>
 <div align="center"><h2>🌐 Connect With Me</h2></div>
 
 <div align="center">
 
-<!-- TODO: replace the # links with your real profiles -->
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/malani-prince/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/princemalani"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://scholar.google.com/citations?user=2C4i3DwAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 
@@ -315,8 +303,7 @@ What drives me is the engineering craft underneath the product: clean code, pred
 
 <div align="center">
 
-<!-- TODO: link your hosted resume PDF -->
-<a href="#"><img src="https://img.shields.io/badge/Download%20Resume-2C9FE0?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="resume"/></a>
+<a href="https://drive.google.com/file/d/1TrHuVSpeBTNkDp9qTbtbSgniQeRWft06/view?usp=sharing"><img src="https://img.shields.io/badge/View%20%2F%20Download%20Resume-2C9FE0?style=for-the-badge&logo=googledrive&logoColor=white" alt="resume"/></a>
 
 </div>
 
