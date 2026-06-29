@@ -1,16 +1,3 @@
-<!--
-=====================================================================
-  GitHub Profile README — Prince Malani
-  ---------------------------------------------------------------
-  HOW TO MAINTAIN:
-  1. Replace every "princemalani" below with your real GitHub username.
-  2. Replace links marked  <!-- TODO -->  (portfolio, resume, socials).
-  3. For the Snake animation, add the workflow in:
-       .github/workflows/snake.yml   (snippet at the bottom of this file)
-  4. Project cards link to repos — update the URLs to your real repos.
-=====================================================================
--->
-
 <!-- =================== 1 + 2. ANIMATED INTRO + BANNER =================== -->
 <a name="top"></a>
 
