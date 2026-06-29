@@ -1,10 +1,4 @@
-<!--
-=====================================================================
-  GitHub Profile README — Prince Malani
-  MAINTENANCE: replace every "princemalani" with your real GitHub
-  username, and update project "Repo" links to your real repos.
-=====================================================================
--->
+
 
 <!-- =================== NAME / HEADER (kept as-is) =================== -->
 <a name="top"></a>
@@ -75,26 +69,6 @@ Always exploring the space where **mobile, backend, and applied AI** meet.
 | **Mario's Towing** | Service-booking app with real-time location tracking and dispatch | Android, Kotlin, Google Maps, Firebase | [Repo](https://github.com/princemalani) |
 | **EWorld Education** | EdTech app for courses, content, and progress tracking | Kotlin, MVVM, Room, Retrofit | [Repo](https://github.com/princemalani) |
 | **MediBot AI** | Healthcare chatbot answering medical queries via RAG | OpenAI, FAISS, LangChain, Flask | [Repo](https://github.com/princemalani) |
-
-<br/>
-
-<!-- =================== GITHUB STATISTICS =================== -->
-<div align="center"><h2>📊 GitHub Statistics</h2></div>
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=princemalani&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&title_color=2c9fe0&icon_color=2c9fe0" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=princemalani&hide_border=true&theme=tokyonight&ring=2c9fe0&fire=2c9fe0&currStreakLabel=2c9fe0" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princemalani&layout=compact&hide_border=true&theme=tokyonight&title_color=2c9fe0&langs_count=8" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://ghchart.rshah.org/239a3b/princemalani" width="95%" alt="contribution chart"/>
-
-</div>
 
 <br/>
 
