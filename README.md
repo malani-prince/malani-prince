@@ -1,13 +1,4 @@
-<!--
-=====================================================================
-  GitHub Profile README — Prince Malani
-  ---------------------------------------------------------------
-  MAINTENANCE:
-  1. Replace every "princemalani" with your real GitHub username.
-  2. Fill links marked  <!-- TODO -->  (resume, socials, paper links).
-  3. Update project "View Project" URLs to your real repos.
-=====================================================================
--->
+
 
 <!-- =================== INTRO + BANNER =================== -->
 <a name="top"></a>
